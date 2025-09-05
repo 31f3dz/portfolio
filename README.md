@@ -1,14 +1,14 @@
 # 作成したゲームのURL一覧
 - ObstacleRace：オリジナルの3Dアクションゲーム
-  - Gitリポジトリ：[https://github.com/31f3dz/ObstacleRace](https://github.com/31f3dz/ObstacleRace) ※READMEに作品紹介
+  - Gitリポジトリ：[https://github.com/31f3dz/ObstacleRace](https://github.com/31f3dz/ObstacleRace) **※READMEに作品紹介**
   - WebGL：[https://31f3dz.github.io/portfolio/ObstacleRace/](https://31f3dz.github.io/portfolio/ObstacleRace/)
 - VegetablesGame：オリジナルの2Dパズルゲーム
-  - Gitリポジトリ：[https://github.com/31f3dz/VegetablesGame](https://github.com/31f3dz/VegetablesGame) ※READMEに作品紹介
+  - Gitリポジトリ：[https://github.com/31f3dz/VegetablesGame](https://github.com/31f3dz/VegetablesGame) **※READMEに作品紹介**
   - WebGL：[https://31f3dz.github.io/portfolio/VegetablesGame/](https://31f3dz.github.io/portfolio/VegetablesGame/)
 - TheAnimalMirror：職業訓練で共同制作した3Dアクションゲーム
   - WebGL：[https://31f3dz.github.io/portfolio/TheAnimalMirror/](https://31f3dz.github.io/portfolio/TheAnimalMirror/)
 - DeliverySpirits：職業訓練で制作した3Dシューティングゲーム
-  - Gitリポジトリ：https://github.com/31f3dz/DeliverySpirits ※READMEに作品紹介
+  - Gitリポジトリ：https://github.com/31f3dz/DeliverySpirits **※READMEに作品紹介**
   - WebGL：[https://31f3dz.github.io/portfolio/DeliverySpirits/](https://31f3dz.github.io/portfolio/DeliverySpirits/)
 - AstroShooter：書籍をもとにアレンジした2Dシューティングゲーム
   - Gitリポジトリ：https://github.com/31f3dz/AstroShooter
